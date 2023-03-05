@@ -1,4 +1,6 @@
 ### Hi there 👋
+### - 🌱 I’m currently learning how to get started in GitHub
+### - 💬 Ask me about anything
 
 <!--
 **Midulo013/Midulo013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
